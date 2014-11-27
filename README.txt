@@ -1,0 +1,1 @@
+Itc Vanadzor test file.
