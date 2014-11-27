@@ -1,1 +1,1 @@
-Itc Vanadzor test file.
+Itc Vanadzor test file.edit
